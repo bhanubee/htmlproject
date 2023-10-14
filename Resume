@@ -1,0 +1,101 @@
+<html>
+    <head>
+        <title>
+            Resume
+        </title>
+        <style>h1{
+            background-color: rgb(226, 43, 116);}
+            </style>
+    </head>
+    <body>
+       <center> <h1>Chitrachedu.Bhanubee </h1></center>
+       <img src="./WhatsApp Image 2023-10-03 at 04.16.41_281815cf.jpg "weight="100"height="100">
+       <hr>
+       <details>
+        <summary>Click Here</summary>
+    
+       <hr>
+       <h3><u>CAREER OBJECTIVE:</u></h3>
+       <p>I look forward to an experience that is both intellectually and
+         professionally valuable.  I hope to see myself grow as a professional
+          and as an individual.
+
+Working in an innovative and competitive world. I wish to
+ contribute to the organization with hard work sincerity patience 
+ and dedication and my capabilities by continuous learning.
+</p>
+<hr>
+<h3><u>Educational Qualifications</u></h3>
+<table>
+    <style>
+        table,tr,th,td{
+            border: 2px solid black;
+            border-collapse:separate}
+            </style>
+            <tr>
+                <th>Qualification</th>
+                <th>Institution</th>
+                <th>Year of passing</th>
+                <th>GPA</th>
+            </tr>
+            <tr>
+                <td>10th Board Examinations</td>
+                <td>Z.P.G.High school</td>
+                <td>2017</td>
+                <td>8.2</td>
+            </tr>
+            <tr>
+                <td>Intermediate Education</td>
+                <td>Mahatma College</td>
+                <td>2019</td>
+                <td>6.2</td>
+            </tr>
+            <tr>
+                <td>B.s.c(computers)</td>
+                <td>Sri Sai Degree college</td>
+                <td>2022</td>
+                <td>7.3</td>
+            </tr>
+    </table>
+    <hr>
+    <details>
+        <summary>
+            Hobbies
+        </summary>
+        <ul>Art</ul>
+        <ul>Watching movies</ul>
+        <ul>playing games</ul>
+
+    </details>
+    <hr>
+    <details>
+        <summary>Technical Skills</summary>
+        <ul>HTML</ul>
+        <ul>DBMS</ul>
+        <ul>ADEO</ul>
+    </details>
+    <hr>
+    <details>
+        <summary>Personal Details</summary>
+        <ul>Name->C.BHANUBEE</ul>
+        <ul>DOB->10/05/2001</ul>
+        Email->chitrachedusana@gmail.com
+    </details>
+    <hr>
+    <details>
+        <summary>Declaration</summary>
+        <ul>NAME:C.Bhanubee</ul>
+        <img src="./WhatsApp Image 2023-10-03 at 06.12.45_0bdf0f52.jpg"weight="100"height="100">
+        signature:
+    
+    </details>
+       
+            
+        
+    
+
+
+    </body>    
+        
+   
+</html>
