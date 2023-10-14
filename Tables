@@ -1,0 +1,170 @@
+<html>
+    <head>
+        <title>
+            Task3</title>
+            <center><h1>Table task-1</h1></center>
+            <style>
+                table,td,tr,th{
+                    border: 1px solid black;
+                    border-collapse: separate;
+                }
+            </style>    
+         </head>
+         <body>
+             <Table>
+                 <tr>
+                     <th colspan="4">New Employees Records</th>
+                    </tr>
+                    <tr>
+                        <th>Names</th>
+                        <th colspan="2">Jobs</th>
+                        
+                        <th>Working Experience</th>
+                    </tr>
+                    <tr>
+                        <td>John</td>
+                        <td>Software Engineer</td>
+                        <td>Data Analyst</td>
+                        <td rowspan="2">5 Years</td>
+                    </tr>
+                    <tr>
+                        <td>Ale</td>
+                        <td colspan="2">Senior Web developer</td>
+                    </tr>
+                    <tr>
+                        <td>Jack</td>
+                        <td>Junior Tech Writer</td>
+                        <td>Blogger</td>
+                        <td>6Months</td>
+                    </tr>
+                    
+                </Table>
+                <h2>Table task-2</h2>
+                <Table>
+                    <tr>
+                        <th colspan="6"><center>Time Table</center></th>
+                    </tr>
+                    <tr>
+                        <th rowspan="6">Hours</th>
+                        <th>Mon</th>
+                        <th>Tue</th>
+                        <th>Wed</th>
+                        <th>Thu</th>
+                        <th>Fri</th>
+                    </tr>
+                    <tr>
+                        <td>Math</td>
+                        <td>Science</td>
+                        <td>Math</td>
+                        <td>Science</td>
+                        <td>Arts</td>
+                    </tr>
+                    <tr>
+                        <td>Math</td>
+                        <td>Science</td>
+                        <td>Math</td>
+                        <td>Science</td>
+                        <td>Arts</td>
+                    </tr>
+                    <tr>
+                        <th colspan="5">Lunch</th>
+                    </tr>
+                    <tr>
+                        <td>Math</td>
+                        <td>Science</td>
+                        <td>Math</td>
+                        <th rowspan="2"colspan="2">Project</th>
+                    </tr>
+                    <tr>
+                        <td>Math</td>
+                        <td>Science</td>
+                        <td>Math</td>
+                    </tr>
+                    <Table>
+                       
+                        <h1>Table task-3</h1>
+                        <h2>Normal Padding</h2>
+                        <tr>
+                            <th>Name</th>
+                            <th>Job</th>
+                        
+                            <th>Working Experience</th>
+                        </tr>
+                        <tr>
+                            <td>John</td>
+                            <td>Software Engineer</td>
+                            <td>5 Years</td>
+                        </tr>
+                        <tr>
+                            <td>Aje</td>
+                            <td>Senior Web developer</td>
+                            <td>2 Year</td>
+                        </tr>
+                        <tr>
+                            <td>Jack</td>
+                            <td>Junior Tech Writer</td>
+                            <td>6 Months</td>
+                        </tr>
+
+                    </Table>
+                    <h1>Table task-4</h1>
+                    <h2>Barder-Spacing</h2>
+                        <table>
+                            <tr>
+                                <th>Name</th>
+                                <th>Job</th>
+                            
+                                <th>Working Experience</th>
+                            </tr>
+                            <tr>
+                                <td>John</td>
+                                <td>Software Engineer</td>
+                                <td>5 Years</td>
+                            </tr>
+                            <tr>
+                                <td>Aje</td>
+                                <td>Senior Web developer</td>
+                                <td>2 Year</td>
+                            </tr>
+                            <tr>
+                                <td>Jack</td>
+                                <td>Junior Tech Writer</td>
+                                <td>6 Months</td>
+                            </tr>
+    
+
+                        </table>
+                    </Barder-Spacing>
+        
+                        
+                   
+                   
+                   
+                    
+                  
+                    
+                </Table>
+            </body>
+            
+        </html>
+        
+        
+      
+            
+            
+                
+
+        
+        
+
+                
+            
+
+
+            
+           
+            
+       
+               
+               
+           
